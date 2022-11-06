@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Silkscreen', cursive;
+    background: rgb(0,33,36);
+    background: linear-gradient(90deg, rgba(0,33,36,1) 11%, rgba(9,79,121,1) 36%, rgba(0,211,255,1) 100%);
+}
+
+h2 {
+    color: white;
+    font-weight: 600;
+    font-family: 'Silkscreen', cursive;
+    background: rgb(0,33,36);
+    background: linear-gradient(90deg, rgba(0,33,36,1) 11%, rgba(9,79,121,1) 36%, rgba(0,211,255,1) 100%);
+}
+article>p {
+    color: white;
+    font-size: 20px;
+}
+
+header>h2 {
+    font-size: 30px;
+}
+main {
+    background: rgb(0,33,36);
+    background: linear-gradient(90deg, rgba(0,33,36,1) 11%, rgba(9,79,121,1) 36%, rgba(0,211,255,1) 100%);
+}
+
+article {
+    background: rgb(0,33,36);
+    background: linear-gradient(90deg, rgba(0,33,36,1) 11%, rgba(9,79,121,1) 36%, rgba(0,211,255,1) 100%);
+    color: white;
+    font-family: 'Silkscreen', cursive;
+    font-size: 30px;
+}
+
+footer {
+    background: rgb(0,33,36);
+    background: linear-gradient(90deg, rgba(0,33,36,1) 11%, rgba(9,79,121,1) 36%, rgba(0,211,255,1) 100%);
+}
+
+li {
+    font-size: 20px;
+    color: white;
+}
+
+footer>p {
+    font-size: 20px;
+    color: white;
+}
+
+.pr {
+    padding: 3% 10%;
+}
+
+.even {
+    font-size: 25px;
+    color: white;
+}
+
+.centerd {
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+}
+
+#one {
+     font-style: italic;
+     font-size: 25px;
+}
+.mg {
+    padding: 3% 3%;
+}
+.headerblock {
+    display:flex;
+    gap: 300px;
+    align-items: center;
+} 
+nav {
+    display:flex;
+    gap: 200px;
+    font-family: 'Silkscreen', cursive;
+    color: blue;
+    font-size: 30px;
+}
+
